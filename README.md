@@ -11,4 +11,5 @@ Prediction and Evaluation: The model predicted laptop prices on the testing set.
 
 # Results
 R-squared: 0.7847, showing a good fit of the model to the data.
+
 MAE: This metric helps understand the average magnitude of errors in the predictions, giving a clear idea of how close the predictions are to the actual prices.
